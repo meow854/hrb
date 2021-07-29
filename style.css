@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgb(255, 241, 215), rgb(209, 197, 169));
+    margin-top: 30px;
+    height: 907px;
+}
+p{
+    font-size: 50px;
+    font-weight: 400;
+    color: rgb(48, 27, 0);
+    margin-top: 50px;
+}
+#player1div{
+    background: white;
+    border-radius: 20px;
+    border-top: 20px solid #9af3ff;
+    padding: 10px;
+    text-align: left;
+    width: 800px;
+}
+#h2{
+    margin-bottom: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: rgb(70, 51, 27);
+    text-align: center;
+}
+input{
+    border: 3px solid palevioletred;
+    border-radius: 5px;
+    width: 700px;
+    margin-bottom: 10px;
+    margin-left: 35px;
+}
+h2{
+    color: rgb(48, 27, 0);
+    margin-bottom: 20px;
+}
+button{
+    width: 500px;
+}
